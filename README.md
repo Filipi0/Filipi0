@@ -44,7 +44,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Filipi0/Filipi0/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
@@ -63,7 +67,7 @@
 
 ###
 
-<img align="right" height="140" src="https://animesher.com/orig/1/146/1465/14653/animesher.com_eva-pixel-evangelion-1465384.gif"  />
+<img align="right" height="140" src="https://art.ngfiles.com/images/2647000/2647159_wolfespeider_mgr-raiden.gif?f1658770496"  />
 
 ###
 
